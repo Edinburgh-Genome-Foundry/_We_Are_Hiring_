@@ -10,3 +10,8 @@ You will use your computational and organizational skills to help us develop the
 Your work will be mainly open-source and have visibility in the Synthetic Biology and Laboratory Automation communities, enabling biological projects at an unprecedented scale!
 
 For more informations see the [full job description](https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.display_form) or contact [valentin.zulkower@ed.ac.uk](mailto:valentin.zulkower@ed.ac.uk). Apply [here](https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.display_form#]) before November 8th 2018 !
+
+:hourglass_flowing_sand: 2-year contract in first instance <br/>
+:moneybag: £40,792 to £48,677 per year <br/>
+:scroll: PhD, or MSc with experience <br/>
+:date: Closing date November 8th 2018 <br/>
