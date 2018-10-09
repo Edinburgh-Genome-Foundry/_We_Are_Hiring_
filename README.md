@@ -1,6 +1,6 @@
 <h1 align='center'>We're Hiring !<h1>
  
- ### Senior Software Engineer (Synthetic Biology Automation)
+#### Senior Software Engineer (Synthetic Biology Automation)
 
 
 The Edinburgh Genome Foundry is a unique facility at the University of Edinburgh specialized in large-scale genetic engineering projects for academic and industrial research. We are automating the assembly of genetic constructs up to chromosome size, with an ambition to deliver custom DNA seven days a week with minimal human intervention from order to shipping.
