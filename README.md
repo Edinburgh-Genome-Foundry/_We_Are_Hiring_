@@ -4,7 +4,7 @@
 #### Senior Software Engineer (Synthetic Biology Automation)
 
 :earth_africa: In Edinburgh, UK <br/>
-:hourglass_flowing_sand: fixed term until November 2020 in the first instance <br/>
+:hourglass_flowing_sand: Fixed term until November 2020 in the first instance <br/>
 :moneybag: £40,792 to £48,677 per year <br/>
 :scroll: PhD, or MSc with experience <br/>
 :date: Closing date February 15th 2019 <br/>
