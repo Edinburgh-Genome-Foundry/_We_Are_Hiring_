@@ -14,7 +14,7 @@ We are looking for an enthusiastic Software Engineer with strong computational s
 
 Your work will be mainly open-source and have visibility in the Synthetic Biology and Laboratory Automation communities, enabling biological projects at an unprecedented scale!
 
-For more informations see the [full job description](https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.jobspec?p_id=047555), browse our [software projects]( https://edinburgh-genome-foundry.github.io/), or contact [valentin.zulkower@ed.ac.uk](mailto:valentin.zulkower@ed.ac.uk)).
+For more informations see the [full job description](https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.jobspec?p_id=047555), browse our [software projects]( https://edinburgh-genome-foundry.github.io/), or contact [valentin.zulkower@ed.ac.uk](mailto:valentin.zulkower@ed.ac.uk).
 
 <!-- We have no open position at the moment but we are always happy to hear about
 people interested in writing software for Synthetic Biology and lab automation,
