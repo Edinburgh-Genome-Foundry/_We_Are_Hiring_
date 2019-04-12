@@ -1,4 +1,4 @@
-[](<h1 align='center'>We're Hiring !<h1>
+<h1 align='center'>We're Hiring !<h1>
  
 #### Senior Software Engineer (Synthetic Biology Automation)
 
@@ -6,7 +6,7 @@
 :hourglass_flowing_sand: 2-year contract in first instance <br/>
 :moneybag: £40,792 to £48,677 per year <br/>
 :scroll: PhD, or MSc with experience <br/>
-:date: Closing date November 8th 2018 <br/>
+:date: Closing date February 15th 2019 <br/>
 
 The Edinburgh Genome Foundry is a unique facility at the University of Edinburgh specialized in large-scale genetic engineering projects for academic and industrial research. We are automating the assembly of genetic constructs up to chromosome size, with an ambition to deliver custom DNA seven days a week with minimal human intervention from order to shipping.
 
