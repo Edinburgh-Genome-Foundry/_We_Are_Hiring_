@@ -10,7 +10,7 @@
 
 The Edinburgh Genome Foundry is a unique facility at the University of Edinburgh specialized in large-scale genetic engineering projects for academic and industrial research. We are automating the assembly of genetic constructs up to chromosome size, with an ambition to deliver custom DNA seven days a week with minimal human intervention from order to shipping.
 
-We are looking for an enthusiastic Software Engineer with strong computational skills and experience with molecular biology to help us develop the services that orchestrate our platform, making it smarter, faster and more reliable. This is a great opportunity to contribute to exciting research projects (e.g. in gene and cell therapy, metabolic engineering) while developing expertise in Laboratory Information Management Systems, software architecture for automation, computer-aided DNA design and manufacturing, and web development.
+We are looking for an enthusiastic Senior Software Engineer with strong computational skills and possibly experience with molecular biology to help us develop the services that orchestrate our platform, making it smarter, faster and more reliable. This is a great opportunity to contribute to exciting research projects (e.g. in gene and cell therapy, metabolic engineering) while developing expertise in Laboratory Information Management Systems, software architecture for automation, computer-aided DNA design and manufacturing, and web development.
 
 Your work will be mainly open-source and have visibility in the Synthetic Biology and Laboratory Automation communities, enabling biological projects at an unprecedented scale!
 
