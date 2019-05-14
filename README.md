@@ -1,4 +1,4 @@
-<h1 align='center'>We're Hiring !</h1>
+<h1 align='center'>Get in touch!</h1>
 
 We have no open position at the moment but we are always happy to hear about
 people interested in writing software for Synthetic Biology and lab automation,
