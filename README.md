@@ -1,4 +1,4 @@
-<h1 align='center'>We're Hiring !<h1>
+<h1 align='center'>Get in touch!</h1>
 
 #### Senior Software Engineer (Synthetic Biology Automation)
 
