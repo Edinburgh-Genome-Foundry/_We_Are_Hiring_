@@ -1,6 +1,6 @@
 <h1 align='center'>We're hiring</h1>
 
-#### Senior Software Engineer (Synthetic Biology Automation)
+#### Biofoundry Computational Biologist
 
 :earth_africa: In Edinburgh, UK <br/>
 :hourglass_flowing_sand: Full time (fixed term until November 2020 in the first instance, but renewable) <br/>
